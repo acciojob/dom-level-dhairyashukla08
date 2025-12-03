@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const element=getElementById("level");
+const element=document.getElementById("level");
 let level=0;
 let current=element;
 
